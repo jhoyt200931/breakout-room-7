@@ -1,9 +1,10 @@
 main {
+  background-color: orange;
   align-content: center;
   box-sizing: border-box;
   display: grid;
-  font-family: 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica',
-    'Arial', sans-serif;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
   hyphens: auto;
   line-height: 1.65;
   margin: 0 auto;
@@ -40,5 +41,5 @@ pre {
 }
 code:before,
 code:after {
-  content: '\`';
+  content: "\`";
 }
